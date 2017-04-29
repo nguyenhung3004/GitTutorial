@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0E1EC4271EB43E5200DB26D8 /* Recorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E1EC4261EB43E5200DB26D8 /* Recorder.swift */; };
 		0ECC4D711E738AAD0059C79C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECC4D701E738AAD0059C79C /* AppDelegate.swift */; };
 		0ECC4D781E738AAD0059C79C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0ECC4D771E738AAD0059C79C /* Assets.xcassets */; };
 		0ECC4D7B1E738AAD0059C79C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0ECC4D791E738AAD0059C79C /* LaunchScreen.storyboard */; };
@@ -25,6 +26,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0E1EC4261EB43E5200DB26D8 /* Recorder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Recorder.swift; sourceTree = "<group>"; };
 		0ECC4D6D1E738AAD0059C79C /* DemoLifeCycle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoLifeCycle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0ECC4D701E738AAD0059C79C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0ECC4D771E738AAD0059C79C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 				0E1B79191EB1A14B004CFCCF /* New Group */,
 				0ED06A4C1E74DE3D0022DDC6 /* Main.storyboard */,
 				0ECC4D701E738AAD0059C79C /* AppDelegate.swift */,
+				0E1EC4261EB43E5200DB26D8 /* Recorder.swift */,
 			);
 			path = DemoLifeCycle;
 			sourceTree = "<group>";
@@ -205,6 +208,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0ECC4D711E738AAD0059C79C /* AppDelegate.swift in Sources */,
+				0E1EC4271EB43E5200DB26D8 /* Recorder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
